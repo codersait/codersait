@@ -56,30 +56,25 @@ I am a web developer with a vast array knowledge in many different front end and
 
 ## EDUCATION 📚 📖 ;
 
-🖌  Dokuz Eylul University - BEd in Mathematics {2012--2018}
-
-🖌  Istanbul Technical University - BSc in Computer Engineering{2012--2016}
+🖌 
 
 ## SKILLS 🚀 ;
 
   💊 Front End : JavaScript, SASS, Bootstrap, HTML5, CSS3, ReactJS, Google Web Designer
+ 
    
-  💊 Back End : NodeJs, Python OOP, PHP, Java
    
-  💊 Databases : MySql, PostgreSQL, SQLite, MongoDb, FireBase
-   
-  💊 Web Development : Django, Restful API, Python Flask
+ 
    
   💊 Mobile Development : React Native, FireBase
    
   💊 Tools : Git, Jira, Postman,AWS(EC2, S3, RDS),GraphQL
    
-  💊 Methodologies : Agile, Scrum, Kanban
-   
-  💊 Operating Systems : Linux, Windows, MacOs, Android, IOS
+ 
+ 
 
 
-
+<!--
 ## Reach Me;
 <a href="https://www.linkedin.com/in/yseryilmaz/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/yseryilmaz/">
@@ -88,5 +83,6 @@ I am a web developer with a vast array knowledge in many different front end and
 <a href="mailto:yusuferyilmaz1819@gmail.com" target="_blank">
     <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/gmail.jpg"  width="25" height="25" alt="mailto:yusuferyilmaz1819@gmail.com">
 </a>
+-->
 
 
