@@ -1,3 +1,4 @@
+<!--
 <img align="right" src="https://github.com/codersait/codersait/blob/main/Webp.net-gifmaker.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
 
 <h3 class="animate__animated animate__bounce">Hi, I'm Sait. I'm React and React Native developer.👋<h3/>
@@ -65,7 +66,7 @@
    
   💊 Tools : Git, Jira, Postman,AWS(EC2, S3, RDS),GraphQL
  
-<!--
+
 ## Reach Me;
 <a href="https://www.linkedin.com/in/yseryilmaz/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/yseryilmaz/">
