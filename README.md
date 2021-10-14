@@ -1,8 +1,8 @@
-### Hello, I'm Harun Dayan 👋
+### Hello, I'm Sait Ibrahim 👋
 
-## I'm a Full Stack Developer and Lifelong Learner!
+## I'm a React and React Native Developer and Lifelong Learner!
 
-- 🌱 I’m currently improving skills on full-stack development ( JavaScript | React | React Native | Java | Spring Boot)
+- 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React | React Native)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 Contributes Open Source projects.
 - ✍ Believes in the importance of learning new things every day.
