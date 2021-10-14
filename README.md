@@ -25,7 +25,7 @@
 
 <div>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" width="55" height="55"/> </a>
-<a href="#" target="_blank"> <img src="https://icon-icons.com/icon/typescript-plain-logo/146316" alt="ts" width="55" height="55"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="ts" width="55" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="55" height="55"/> </a>
 <a href="#" target="_blank"> <img src="./images/react-native" alt="react-native" width="55" height="55"/> </a>
  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> 
