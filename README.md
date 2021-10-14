@@ -35,13 +35,13 @@
  
 <div>
 
----
+<!-- --- -->
 
-## 💻 Backend
+<!-- ## 💻 Backend
 
 <a href="#" target="_blank"> <img src="./images/spring.png" alt="python" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="55"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="55"/> </a>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="55"/> </a> -->
 
 ---
 
