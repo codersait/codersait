@@ -14,9 +14,8 @@
 ## 👨👩 Social
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codersait/)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/codersait)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codersait)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/)
 
 ---
 
@@ -44,7 +43,7 @@
 
 ---
 
-## ⚙ Tools
+<!-- ## ⚙ Tools
 
 <div>
 
@@ -54,7 +53,7 @@
 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="55"/> </a>
 
-<a href="#" target="_blank" alt="Slack"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png"  height="55"/> </a>
+<a href="#" target="_blank" alt="Slack"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png"  height="55"/> </a> -->
 
 ---
 
@@ -62,8 +61,7 @@
 
 <div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersait" alt="HarunDayan" width="15%" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersait" alt="codersait" width="15%" /> </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=codersait&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersait&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
