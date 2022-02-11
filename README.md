@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React | React Native)
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 Contributes Open Source projects.
 - ✍ Believes in the importance of learning new things every day.
 - 💬 Ask me about **JavaScript, TypeScript, React, React Native, HTML, CSS, Bootstrap**
 - ✨ Please look into my repos, don't avoid to give me advice.
