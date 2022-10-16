@@ -5,7 +5,7 @@
 - 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React )
 - 👯 I’m looking to collaborate with other developers.
 - ✍ Believes in the importance of learning new things every day.
-- 💬 Ask me about **JavaScript, TypeScript, React, HTML, CSS, Tailwind**
+- 💬 Ask me about **JavaScript, TypeScript, React, Tailwind**
 - ✨ Please look into my repos, don't avoid to give me advice.
 
 ---
