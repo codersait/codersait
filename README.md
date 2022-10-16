@@ -26,7 +26,6 @@
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" width="55" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="ts" width="55" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="55" height="55"/> </a>
- <a href="#" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="55" height="55"/> </a> 
  <a href="#" target="_blank"> <img src="https://github.com/codersait/codersait/blob/main/images/tailwind-css-icon.svg" alt="tailwind" width="55" height="55"/> </a>  
 <div>
 
