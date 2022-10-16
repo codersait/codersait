@@ -2,7 +2,7 @@
 
 ## I'm a React Developer and Lifelong Learner!
 
-- 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React | React Native)
+- 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React )
 - 👯 I’m looking to collaborate with other developers.
 - ✍ Believes in the importance of learning new things every day.
 - 💬 Ask me about **JavaScript, TypeScript, React, HTML, CSS, Tailwind**
