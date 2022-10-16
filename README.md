@@ -1,11 +1,11 @@
 ### Hello, I'm Sait Ibrahim 👋
 
-## I'm a React & React Native Developer and Lifelong Learner!
+## I'm a React Developer and Lifelong Learner!
 
 - 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React | React Native)
 - 👯 I’m looking to collaborate with other developers.
 - ✍ Believes in the importance of learning new things every day.
-- 💬 Ask me about **JavaScript, TypeScript, React, React Native, HTML, CSS, Bootstrap**
+- 💬 Ask me about **JavaScript, TypeScript, React, HTML, CSS, Tailwind**
 - ✨ Please look into my repos, don't avoid to give me advice.
 
 ---
