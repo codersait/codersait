@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Java Developer and Lifelong Learner!
 
-- 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React )
+- 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React | Spring Boot | Java )
 - 👯 I’m looking to collaborate with other developers.
 - ✍ Believes in the importance of learning new things every day.
 - 💬 Ask me about **JavaScript, TypeScript, React, Tailwind**
