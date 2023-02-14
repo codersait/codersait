@@ -1,6 +1,6 @@
 ### Hello, I'm Sait Ibrahim 👋
 
-## I'm a React Developer and Lifelong Learner!
+## I'm a Fullstack Java Developer and Lifelong Learner!
 
 - 🌱 I’m currently improving skills on frontend development ( JavaScript | TypeScript | React )
 - 👯 I’m looking to collaborate with other developers.
